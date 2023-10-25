@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1001</Id>
+  <Fname>Issam</Fname>
+  <Lname>A.</Lname>
+  <Benefits>
+    <string>Pension</string>
+    <string>Health Insurance</string>
+  </Benefits>
+</Employee>

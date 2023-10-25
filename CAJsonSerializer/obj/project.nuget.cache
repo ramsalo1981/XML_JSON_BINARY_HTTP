@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P5vls1MMnacUMeMwQgIHKhCpwwGXPH1rfLQerKdNmY9xcN8X3mV6Vsjre0gu8rQgPH8TZ9BcD3vTR2lNP/ac0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramis\\Desktop\\dr_atef_c#\\dot_net_core\\HttpClientAndSerialization\\CAJsonSerializer\\CAJsonSerializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

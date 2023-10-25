@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\obj\Debug\net7.0\CABinarySerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\obj\Debug\net7.0\CABinarySerialization.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\obj\Debug\net7.0\CABinarySerialization.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\obj\Debug\net7.0\CABinarySerialization.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\bin\Debug\net7.0\CABinarySerialization.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\bin\Debug\net7.0\CABinarySerialization.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\bin\Debug\net7.0\CABinarySerialization.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\bin\Debug\net7.0\CABinarySerialization.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\bin\Debug\net7.0\CABinarySerialization.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\obj\Debug\net7.0\CABinarySerialization.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\obj\Debug\net7.0\refint\CABinarySerialization.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\obj\Debug\net7.0\CABinarySerialization.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\obj\Debug\net7.0\CABinarySerialization.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CABinarySerialization\obj\Debug\net7.0\ref\CABinarySerialization.dll

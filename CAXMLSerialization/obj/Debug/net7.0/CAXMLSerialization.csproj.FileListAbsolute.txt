@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\bin\Debug\net7.0\CAXMLSerialization.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\bin\Debug\net7.0\CAXMLSerialization.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\bin\Debug\net7.0\CAXMLSerialization.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\bin\Debug\net7.0\CAXMLSerialization.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\bin\Debug\net7.0\CAXMLSerialization.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\refint\CAXMLSerialization.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\CAXMLSerialization.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAXMLSerialization\obj\Debug\net7.0\ref\CAXMLSerialization.dll

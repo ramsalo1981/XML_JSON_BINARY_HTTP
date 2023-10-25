@@ -1,0 +1,17 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\bin\Debug\net7.0\CAJsonSerializer.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\bin\Debug\net7.0\CAJsonSerializer.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\bin\Debug\net7.0\CAJsonSerializer.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\bin\Debug\net7.0\CAJsonSerializer.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\bin\Debug\net7.0\CAJsonSerializer.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\obj\Debug\net7.0\CAJsonSerializer.csproj.AssemblyReference.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\obj\Debug\net7.0\CAJsonSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\obj\Debug\net7.0\CAJsonSerializer.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\obj\Debug\net7.0\CAJsonSerializer.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\obj\Debug\net7.0\CAJsonSerializer.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\obj\Debug\net7.0\CAJsonSerializer.csproj.CopyComplete
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\obj\Debug\net7.0\CAJsonSerializer.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\obj\Debug\net7.0\refint\CAJsonSerializer.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\obj\Debug\net7.0\CAJsonSerializer.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\obj\Debug\net7.0\CAJsonSerializer.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\HttpClientAndSerialization\CAJsonSerializer\obj\Debug\net7.0\ref\CAJsonSerializer.dll
